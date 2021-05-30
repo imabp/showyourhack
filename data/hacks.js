@@ -30,3 +30,4 @@ let hacks = [
 ]
 
 
+export default hacks;
