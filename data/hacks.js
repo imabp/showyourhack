@@ -18,7 +18,15 @@ let hacks = [
     "Project_Name": "hifaazat",
     "Description":"As the name suggests 'hifaazat', our application is focused on safety. It is an android application built with flutter and firebase. This application notifies the user's saved contacts or the police in case of any danger.The aim was to create an app that is easy to use and has all the useful features in one place, unlike other safety applications.", 
     "Github":"https://github.com/sid-1207/hifaazat"
-  },    
+  },
+  {
+  "Hackathon_Name": "HackOn2.0",
+  "Project_Name": "The DualBot",
+  "Description":"The project is based on IOT which helps the speech impaired people and us to understand each other while using the device. It can be connected with phone and it understand braille and its super easy to understand after wearing the IOT hardware glove. ", 
+  "Github":"https://github.com/kartikagarwal9/Speech-and-text-system-using-hand-gesture",
+  "Website" : "http://hackscript.tech/"
+  },
+
 ]
 
 
