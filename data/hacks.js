@@ -12,8 +12,13 @@ let hacks = [
   "Description":"Create your profile with our simple to use UI. Then if you are a User, you can see all the appointments available by the Therapists. Then you can request one. The Therapist can approve your request and then a Google Meet link will be generated where the Therapist and User can join easily. We also have a chillzone where you can interact with our voice assistant - watch movies, read quotes, and smile with memes.", 
   "Github":"https://github.com/gigabite-pro/baatcheet",
   "Website" : "https://baattcheet.herokuapp.com"
-},
-  
+  },
+  {
+    "Hackathon_Name": "HackOn_2.0",
+    "Project_Name": "hifaazat",
+    "Description":"As the name suggests 'hifaazat', our application is focused on safety. It is an android application built with flutter and firebase. This application notifies the user's saved contacts or the police in case of any danger.The aim was to create an app that is easy to use and has all the useful features in one place, unlike other safety applications.", 
+    "Github":"https://github.com/sid-1207/hifaazat"
+  },    
 ]
 
 
