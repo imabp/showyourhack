@@ -26,7 +26,15 @@ let hacks = [
   "Github":"https://github.com/kartikagarwal9/Speech-and-text-system-using-hand-gesture",
   "Website" : "http://hackscript.tech/"
   },
-
+{
+  "Hackathon_Name": "HackOn2.0",
+  "Project_Name": "Pravesh Aadhar",
+  "Description":"The purpose of the app is to present some necessary information about the Current Pandemic COVID-19. It has two essential features and is typically based on data feeding. Through Machine learning, the app will provide information to the user as to how many people around it are wearing masks which is essential in these new waves of Covid that we are currently facing. 
+The second feature will work on the input given by the users in which they will rate restaurants based on several points like sanitation, social distancing and mask use.
+The main inspiration behind it is that we don't usually know how many precautions people take during these difficult times. Through our application, some of the quintessential precautions like sanitation and social distancing can help save us. ", 
+  "Github":"https://github.com/soumyabhardwaj/Hackon",
+  "Website" : ""
+  },
 ]
 
 
