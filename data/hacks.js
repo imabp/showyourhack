@@ -28,11 +28,18 @@ let hacks = [
   },
   {
   "Hackathon_Name": "HackOn2.0",
+  "Project_Name": "Pravesh Aadhar",
+  "Description":"The purpose of the app is to present some necessary information about the Current Pandemic COVID-19. It has two essential features and is typically based on data feeding. Through Machine learning, the app will provide information to the user as to how many people around it are wearing masks which is essential in these new waves of Covid that we are currently facing. The second feature will work on the input given by the users in which they will rate restaurants based on several points like sanitation, social distancing and mask use. The main inspiration behind it is that we don't usually know how many precautions people take during these difficult times. Through our application, some of the quintessential precautions like sanitation and social distancing can help save us. ", 
+  "Github":"https://github.com/soumyabhardwaj/Hackon",
+  "Website" : ""
+  },
+  {
+  "Hackathon_Name": "HackOn2.0",
   "Project_Name": "Razer",
   "Description":"RAZER is the hospital management robot to automate some of the works of front line workers by transporting medicines and food to the patients thereby avoiding physical contact and less frequent visits. The robot is contolled via an android application either by manual or voice controls.", 
-  "Github":"https://github.com/Antrin-Raja/razer"
+  "Github":"https://github.com/Antrin-Raja/razer",
+  "Website":""
   },
-
 
 ]
 
