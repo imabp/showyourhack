@@ -26,6 +26,13 @@ let hacks = [
   "Github":"https://github.com/kartikagarwal9/Speech-and-text-system-using-hand-gesture",
   "Website" : "http://hackscript.tech/"
   },
+  {
+  "Hackathon_Name": "HackOn2.0",
+  "Project_Name": "Razer",
+  "Description":"RAZER is the hospital management robot to automate some of the works of front line workers by transporting medicines and food to the patients thereby avoiding physical contact and less frequent visits. The robot is contolled via an android application either by manual or voice controls.", 
+  "Github":"https://github.com/Antrin-Raja/razer"
+  },
+
 
 ]
 
